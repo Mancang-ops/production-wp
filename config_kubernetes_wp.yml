@@ -28,7 +28,7 @@ spec:
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: production-fwp-configmap
+  name: production-wp-configmap
   namespace: production
   labels:
     app: production-wp
